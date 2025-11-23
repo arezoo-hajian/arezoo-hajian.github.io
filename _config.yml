@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Arezoo Hajian"
-  avatar           : 
+  avatar           : "/assets/images/prof.jpg"
   bio              : I'm the best student.
   location         : "تهران"
   email            : arezoohajian86@gmail.com
